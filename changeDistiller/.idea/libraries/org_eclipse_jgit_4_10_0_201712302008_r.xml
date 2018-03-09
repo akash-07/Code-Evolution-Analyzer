@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="org.eclipse.jgit-4.10.0.201712302008-r">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Libraries/org.eclipse.jgit-4.10.0.201712302008-r.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
